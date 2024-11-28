@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { StyleSheet, View, Dimensions, Text, TextInput, TouchableOpacity } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
-import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 const globalStyle = require('../styles/GlobalStyle');
 
